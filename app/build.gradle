@@ -1,0 +1,2 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.pspx.app'; compileSdk 34; defaultConfig { applicationId 'com.pspx.app'; minSdk 23; targetSdk 28; versionCode 3; versionName '0.3' } }
